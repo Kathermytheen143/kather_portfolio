@@ -24,41 +24,40 @@
     
     background-color: aqua;
     color: black;
-    height: 125px;
+    height: 160px;
     width: 100%;
-    display: inline-block;
+    /* display: inline-block; */
     position: relative;
+    justify-content:flex-end;
     
 }
- .first{
+ /* .first{
+    justify-content:flex-end;
     position: relative;
-    left: 100px;
-} 
+}  */
 
 .skills{
-    display: inline-block;
+    /* display: inline-block; */
     position: relative;
-    height: 119px;
+    height: 160px;
     width: 100%;
     background-color: aqua;
     color: black;
     
 }
-.second{
+/* .second{
     position: relative;
-    left: 450px;
-}
+} */
 
 .project{
     background-color: aqua;
     color: black;
-    height: 119px;
     width: 100%;
     position: relative;
-    display: inline-block;
+    /* display: inline-block; */
 }
 
-
+/* 
 .project1{
     position: relative;
     left: 50px;
@@ -75,17 +74,17 @@
     left: 900px;
     bottom: 100%;
     
-}
+} */
 
 .internships{
     background-color: white;
     color: black;
-    height: 140px;
+    /* height: 200px; */
     width: 100%;
     position: relative;
-    display: inline-block;
+    /* display: inline-block; */
 }
-.intern1{
+/* .intern1{
     position: relative;
     left: 200px;
 }
@@ -93,14 +92,14 @@
     position: relative;
     left: 800px;
     bottom: 80px;
-}
+} */
 .resume{
     background-color: aqua;
     color: black;
     height: 50px;
     width: 100%;
     position: relative;
-    display: inline-block;
+    /* display: inline-block; */
 }
 a:hover{
     color:greenyellow;
